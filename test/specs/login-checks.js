@@ -1,3 +1,5 @@
+// Testing Instagram web
+
 const loginUrl = 'https://www.instagram.com/accounts/login/?source=auth_switcher';
 const timeout = 20000;
 describe('Login', () => {
